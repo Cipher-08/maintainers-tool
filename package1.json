@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "npx playwright test"
+    "test": "npx playwright test",
+    "deploy": "k8s working repo"
   },
   "dependencies": {
     "graphql-request": "^6.1.0",
